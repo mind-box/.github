@@ -2,7 +2,7 @@
 
 > MindBox, a note-taking software that fully supports MarkDown syntax
 
-![](./Screenshot.png)
+![](https://github.com/mind-box/.github/blob/main/profile/Screenshot.png)
 
 ### Inspire creativity and connect minds 🧠
 
