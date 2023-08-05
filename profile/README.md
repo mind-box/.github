@@ -2,6 +2,8 @@
 
 > MindBox, a note-taking software that fully supports MarkDown syntax
 
+![](./Screenshot.png)
+
 ### Inspire creativity and connect minds 🧠
 
 Have you ever encountered the problem of being inspired but nowhere to stay? Or are you overwhelmed by the complexity of information? We provide you with the perfect solution for creative collection, copywriting, and reading notes
