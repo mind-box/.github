@@ -1,6 +1,6 @@
-## MindBox(灵感盒子)📝 
+## Inkio
 
-> MindBox, a note-taking software that fully supports MarkDown syntax
+> Inkio, a note-taking software that fully supports MarkDown syntax
 
 ![](https://github.com/mind-box/.github/blob/main/profile/Screenshot.png)
 
@@ -14,4 +14,4 @@ Not only is it a simple note-taking software, it also incorporates advanced arti
 
 ### Data is stored locally, safe and reliable
 
-MindBox is a native software that puts your data in local database. Your inspiration will be stored locally on your device, absolutely safe and secure, without any risk of privacy leakage. Whether it's private, commercial, or academic content, you can trust them to the MindBox with confidence.
+Inkio is a native software that puts your data in local database. Your inspiration will be stored locally on your device, absolutely safe and secure, without any risk of privacy leakage. Whether it's private, commercial, or academic content, you can trust them to the Inkio with confidence.
